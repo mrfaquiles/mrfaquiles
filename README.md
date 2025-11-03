@@ -28,10 +28,10 @@ Meu perfil é centrado no **constante aprendizado** e **aprimoramento técnico**
 ---
 
 ## 📊 Estatísticas do GitHub
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=mrfaquiles&show_icons=true&theme=buefy&hide_border=true)](https://github.com/mrfaquiles)
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=mrfaquiles&layout=compact&theme=buefy&hide_border=true)](https://github.com/mrfaquiles)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrfaquiles&show_icons=true&theme=buefy&hide_border=true" alt="Estatísticas do GitHub" width="49.5%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfaquiles&layout=compact&theme=buefy&hide_border=true" alt="Top Linguagens" width="49.5%"/>
+</p>
 
 ---
 
@@ -39,4 +39,4 @@ Meu perfil é centrado no **constante aprendizado** e **aprimoramento técnico**
 
 | Botão | Link |
 | :---: | :--- |
-| [![LinkedIn Badge](https://www.linkedin.com/in/mayara-aquiles-20b012214/) | Meu perfil profissional. |
+| [![LinkedIn](https://www.linkedin.com/in/mayara-aquiles-20b012214/) | Meu perfil profissional. |
