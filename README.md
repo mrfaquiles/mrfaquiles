@@ -28,15 +28,21 @@ Meu perfil é centrado no **constante aprendizado** e **aprimoramento técnico**
 ---
 
 ## 📊 Estatísticas do GitHub
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrfaquiles&show_icons=true&theme=buefy&hide_border=true" alt="Estatísticas do GitHub" width="49.5%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfaquiles&layout=compact&theme=buefy&hide_border=true" alt="Top Linguagens" width="49.5%"/>
-</p>
+<div align="center">
+  <a href="https://github.com/mrfaquiles">
+    <img src="https://github-readme-stats.vercel.app/api?username=mrfaquiles&show_icons=true&theme=github_dark&hide_border=true&card_width=400" alt="Mayara Aquiles' GitHub Stats" />
+  </a>
+  <a href="https://github.com/mrfaquiles">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfaquiles&layout=compact&theme=github_dark&hide_border=true&card_width=400" alt="Most Used Languages" />
+  </a>
+</div>
 
 ---
 
 ## 🔗 Contato
+<p align="center">
+  <a href="https://www.linkedin.com/in/mayara-aquiles-20b012214/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
-| Botão | Link |
-| :---: | :--- |
-| [![LinkedIn](https://www.linkedin.com/in/mayara-aquiles-20b012214/) | Meu perfil profissional. |
